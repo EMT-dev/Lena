@@ -8,7 +8,7 @@ bot.on('ready', function() {
     console.log("Connected");
 });
 
-bot.login("Nzc3NjY5NDQzNDg4NDQ4NTYy.X7GzGw.WrS3iArFaqfxLG__H5e6FjTA2EI");
+bot.login("Nzc3NjY5NDQzNDg4NDQ4NTYy.X7GzGw.nOVPwDecIm5Dl8ogHHn7lhWicrU");
 
 
 bot.on('message!, message => {
